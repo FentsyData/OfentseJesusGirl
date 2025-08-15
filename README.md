@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OfentseJesusGirl
+- 👋 Hi, I’m @Fentse_Data
 - 👀 I’m interested in ... using my creativity in a way to express myself
 - 🌱 I’m currently learning ... how to paint and just started my journey in Data Science
 - 💞️ I’m looking to collaborate on ... everything that will open me up to the world of Tech
